@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SquareWindowsPlugin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19dd009d65afa75efed37721f7215481de67ffca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+434d07744a3a85cfb1da5475e30fb819e617c0a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SquareWindowsPlugin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SquareWindowsPlugin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

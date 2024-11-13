@@ -1,0 +1,16 @@
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\bin\Debug\net8.0\SquareWindowsPlugin.deps.json
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\bin\Debug\net8.0\SquareWindowsPlugin.dll
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\bin\Debug\net8.0\SquareWindowsPlugin.pdb
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\bin\Debug\net8.0\UnityEditor.dll
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\bin\Debug\net8.0\UnityEngine.dll
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\obj\Debug\net8.0\SquareWindowsPlugin.csproj.AssemblyReference.cache
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\obj\Debug\net8.0\SquareWindowsPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\obj\Debug\net8.0\SquareWindowsPlugin.AssemblyInfoInputs.cache
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\obj\Debug\net8.0\SquareWindowsPlugin.AssemblyInfo.cs
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\obj\Debug\net8.0\SquareWindowsPlugin.csproj.CoreCompileInputs.cache
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\obj\Debug\net8.0\SquareWindowsPlugin.sourcelink.json
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\obj\Debug\net8.0\SquareWi.947FE858.Up2Date
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\obj\Debug\net8.0\SquareWindowsPlugin.dll
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\obj\Debug\net8.0\refint\SquareWindowsPlugin.dll
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\obj\Debug\net8.0\SquareWindowsPlugin.pdb
+D:\Repos\GEReview2\SquareWindowsPlugin\SquareWindowsPlugin\obj\Debug\net8.0\ref\SquareWindowsPlugin.dll
